@@ -13,3 +13,12 @@
   width: 80px;
   height: 80px;
 }
+/* Changes Made */
+.container 
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+
